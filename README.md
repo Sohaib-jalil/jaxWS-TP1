@@ -15,8 +15,8 @@
 ![Screenshot 2023-10-15 213131](https://github.com/Sohaib-jalil/jaxWS-TP1/assets/92445933/6325051c-74be-420e-bc75-5ee336977b43)
 ![Screenshot 2023-10-15 213146](https://github.com/Sohaib-jalil/jaxWS-TP1/assets/92445933/316777fd-ea4f-4ec7-9849-ac447fe5f691)
 
-![Screenshot 2023-10-15 215015](https://github.com/Sohaib-jalil/jaxWS-TP1/assets/92445933/733ff434-0790-465e-a19d-c1078157ccf3)
 ![Screenshot 2023-10-15 214814](https://github.com/Sohaib-jalil/jaxWS-TP1/assets/92445933/7123f75e-691e-497d-865f-38b42915a71a)
+![Screenshot 2023-10-15 215015](https://github.com/Sohaib-jalil/jaxWS-TP1/assets/92445933/733ff434-0790-465e-a19d-c1078157ccf3)
 
-![Opera Snapshot_2023-10-15_220417_localhost](https://github.com/Sohaib-jalil/jaxWS-TP1/assets/92445933/e8f814f6-8479-442a-ad88-02aad3003eed)
 ![Opera Snapshot_2023-10-15_220353_localhost](https://github.com/Sohaib-jalil/jaxWS-TP1/assets/92445933/81c75660-92f6-4764-b0d0-aa899fa699ef)
+![Opera Snapshot_2023-10-15_220417_localhost](https://github.com/Sohaib-jalil/jaxWS-TP1/assets/92445933/e8f814f6-8479-442a-ad88-02aad3003eed)
